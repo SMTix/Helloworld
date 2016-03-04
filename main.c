@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 int main() {
-    printf("Starting\n");
+    printf("New world\n");
     printf("Goodbye, World!\n");
-    printf("New word's\n");
+    printf("End of world\n");
     return 0;
 }
