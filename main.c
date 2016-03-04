@@ -3,6 +3,6 @@
 int main() {
     printf("New world\n");
     printf("Goodbye, World!\n");
-    printf("End of world\n");
+    printf("Ending...\n");
     return 0;
 }
